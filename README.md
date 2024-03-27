@@ -1,2 +1,2 @@
 # Projects
-upload project files
+upload PUBLIC project files
